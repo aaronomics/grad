@@ -12,3 +12,5 @@ asap-aes/valid_sample_submission_5_column.csv
 asap-aes/valid_set.tsv
 asap-aes/valid_set.xls
 asap-aes/valid_set.xlsx
+medium_articles.csv
+nyt_data.parquet
