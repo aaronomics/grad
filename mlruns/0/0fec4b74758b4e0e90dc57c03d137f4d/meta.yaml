@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/0fec4b74758b4e0e90dc57c03d137f4d/artifacts
+end_time: 1681431136697
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fec4b74758b4e0e90dc57c03d137f4d
+run_name: melodic-pig-793
+run_uuid: 0fec4b74758b4e0e90dc57c03d137f4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681431136503
+status: 4
+tags: []
+user_id: aaronweiss

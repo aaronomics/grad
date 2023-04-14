@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/109e472b4d504dbb987583cff1e5adde/artifacts
+end_time: 1681431460073
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 109e472b4d504dbb987583cff1e5adde
+run_name: clean-cow-558
+run_uuid: 109e472b4d504dbb987583cff1e5adde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681431305559
+status: 3
+tags: []
+user_id: aaronweiss

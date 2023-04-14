@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/9dbec304581644d98d37d792687f40fe/artifacts
+end_time: 1681430353459
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9dbec304581644d98d37d792687f40fe
+run_name: resilient-steed-133
+run_uuid: 9dbec304581644d98d37d792687f40fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681430264503
+status: 3
+tags: []
+user_id: aaronweiss

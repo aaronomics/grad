@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/294ff9209e41469c81e32d9b1d646e58/artifacts
+end_time: 1681429403620
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 294ff9209e41469c81e32d9b1d646e58
+run_name: rogue-trout-253
+run_uuid: 294ff9209e41469c81e32d9b1d646e58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681429314159
+status: 3
+tags: []
+user_id: aaronweiss
