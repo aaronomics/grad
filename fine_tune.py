@@ -20,7 +20,7 @@ df.head()
 
 df.to_json("sport2.jsonl", orient='records', lines=True)
 
-# openai.api_key = 
+# openai.api_key = "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"
 
 
 
@@ -30,7 +30,7 @@ df.to_json("sport2.jsonl", orient='records', lines=True)
 
 
 
-#openai --api-key  api fine_tunes.create -t "sport2_prepared_train.jsonl" -v "sport2_prepared_valid.jsonl" --compute_classification_metrics --classification_positive_class " baseball" -m ada
+#openai --api-key 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 api fine_tunes.create -t "sport2_prepared_train.jsonl" -v "sport2_prepared_valid.jsonl" --compute_classification_metrics --classification_positive_class " baseball" -m ada
 
 
 
